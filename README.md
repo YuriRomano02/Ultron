@@ -1,4 +1,4 @@
-# Jarvis
+# Ultron
 
 Un piccolo assistente personale da terminale, scritto in Python.
 Funziona anche offline, grazie a Ollama.
