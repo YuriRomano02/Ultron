@@ -38,9 +38,9 @@ Scrivi `esci` per chiudere.
 
 ## Come personalizzarlo
 
-Apri `jarvis_azioni.py` e cerca queste parti:
+Apri `ultron.py` e cerca queste parti:
 
-- `SYSTEM`: il nome di Jarvis e come deve comportarsi
+- `SYSTEM`: il nome di Ultron e come deve comportarsi
 - `MODEL`: il modello da usare (il nome esatto lo vedi con `ollama list`)
 - `PAROLE_AZIONE`: le parole che fanno partire un'azione (apri, salva, nota...)
 
